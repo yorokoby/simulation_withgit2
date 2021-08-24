@@ -1,0 +1,10 @@
+
+name: "web"
+navbar:
+  title: "web"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+
